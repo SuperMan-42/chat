@@ -9,7 +9,7 @@ import (
 	"chat/repo"
 )
 
-const openAIURL = "api.openai.com"
+const openAIURL = "api.chatanywhere.cn"
 
 type ProxyHandler struct {
 	OpenAIKey string
